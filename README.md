@@ -1,3 +1,3 @@
-## My Library
+### My Library
 
-A collection of code that I re-use frequently. Includes standard data structure implementations, custom classes, functions, algorithms, etc.
+A collection of code that I re-use frequently. Will be updated as I work on more projects.
